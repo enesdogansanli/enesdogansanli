@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enes Doğan ŞANLI</h1>
-<h3 align="center">A passionate Machine Learning Engineer from Turkey</h3>
+<h3 align="center">A passionate Data Scientist from Turkey</h3>
 
 - 🌱 I’m currently learning **PyTorch, NLP**
 
