@@ -3,8 +3,6 @@
 
 - 💬 Ask me about **Machine Learning**, **Artificial Intelligence**, **Rust Programming** and **Databases**
 
-- 📫 How to reach me **enesdogansanli@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/enesdogansanli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enesdogansanli" height="30" width="40" /></a>
