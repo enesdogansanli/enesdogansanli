@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Edimish</h1>
+<h1 align="center">Hi 👋, I'm Enes Doğan ŞANLI</h1>
 <h3 align="center">A passionate Software Engineer from Turkey</h3>
 
 - 💬 **Machine Learning**, **Artificial Intelligence**, **Programming** and **Databases**
